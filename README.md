@@ -43,12 +43,14 @@ Once youve found it, click on where it says default (or some other audio source)
 Sadly, it seems you have to do this every time you open the game.
 
 -FIX MIC-
+
 You will need Pwvucontrol from the last section for this.
 With your game open, go to the recording tab, and find your game.
 where it says 'Default" (or any other audio source) click it, and change it to the ALVR Microphone
 Sadly, it seems you have to do this every time you open the game
 
 -KNOWN ISSUES-
+
 Random SteamVR restarts - No idea why this happens, but it is rare. There is no fix
 Random black windows - This is a SteamVR bug. Press Ctrl + ALT + Esc to clear them.
 Stutters/Latency - This is an issue regarding your connection to the MaximumSettings datacenter, and probably cant be fixed, but possibly improved.
